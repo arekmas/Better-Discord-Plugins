@@ -1,1 +1,1 @@
-# betterdiscord
+Better Discord Plugins
